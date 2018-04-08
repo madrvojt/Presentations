@@ -22,6 +22,10 @@ My presentation from meetups / conferences / workshops
 * DevDays Bratislava
 * and more
 
+### 2018
 
+2 presentations
+
+* WUG days 2018
 
 
